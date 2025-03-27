@@ -1,1 +1,1 @@
-![Wavespeed AI 封面图](https://github.com/你的用户名/你的仓库名/raw/分支名/images/封面图.jpg)。
+![图片描述](https://github.com/tiantian81798/wavespeed.ai/blob/main/360%E6%88%AA%E5%9B%BE20250327140305216.jpg?raw=true)
